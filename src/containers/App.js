@@ -5,8 +5,6 @@ import Scroll from '../components/Scroll';
 import Errorboundry from '../components/Errorboundry';
 import './App.css';
 
-
-
 class App extends Component {
     constructor(){
         super()
@@ -43,10 +41,7 @@ class App extends Component {
               </Scroll>
             </div>
         );
-
     }
 }
-
-
 
 export default App;
